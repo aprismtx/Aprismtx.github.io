@@ -13,19 +13,118 @@
     <!-- Update this each edit -->
     <atom:link href="https://Aprismtx.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <!-- Example post – add new <item> blocks here when publishing -->
+<item>
+  <title>Texas Policy Watch: Why “Sanctuary City” Protections Collapse Under State Preemption</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    Texas cities attempting to establish “sanctuary” protections for gender-affirming care are blocked by state preemption, rendering local resolutions legally unenforceable against SB 14.
+    Attorney General opinions and new legislation continue to narrow what services can be safely offered, while state-licensed institutions like the Texas Medical Center remain fully exposed to enforcement.
+    As formal protections collapse, cities pivot to informal safe zones through community-based care—follow ongoing legal and policy coverage by adding this link to your RSS reader.
+  </description>
+  <pubDate>Mon, 03 Feb 2026 01:20:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260203-003</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
+<item>
+  <title>Texas Policy Watch: Texas Supreme Court Locks In SB 14 With 8–1 Ruling</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    In June 2024, the Texas Supreme Court upheld Senate Bill 14 in an 8–1 decision, ending constitutional challenges and permanently banning gender-affirming medical care for minors statewide.
+    The Court rejected parental-rights arguments and affirmed the state’s authority to regulate treatments it characterized as experimental, despite opposition from major medical organizations.
+    While medical interventions are now fully prohibited, mental health counseling remains legal—track continued fallout and policy analysis by adding this link to your RSS reader.
+  </description>
+  <pubDate>Mon, 03 Feb 2026 00:45:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260203-002</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
+<item>
+  <title>Texas Policy Watch: How Houston Hospitals and Communities Are Adapting to SB 14</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    Houston’s major hospitals are navigating Senate Bill 14 by scaling back prohibited medical care while managing investigations, workforce strain, and deep ethical conflicts within the Texas Medical Center.
+    As providers face legal fear and recruitment challenges, community organizations have stepped in as informal “safe zones,” offering counseling, peer support, and legal assistance that remain lawful under state restrictions.
+    These efforts aim to preserve holistic and mental health care access despite a fractured clinical landscape—follow ongoing coverage by adding this link to your RSS reader.
+  </description>
+  <pubDate>Mon, 03 Feb 2026 00:05:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260203-001</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
+<item>
+  <title>Texas Policy Watch: SB 14 Is Destabilizing Houston’s Medical Workforce</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    Senate Bill 14 is accelerating a medical brain drain in Houston as specialized physicians leave the state, recruitment pipelines dry up, and legal fear spreads across the Texas Medical Center.
+    Providers face an ethical and professional conflict as state law criminalizes care that national medical organizations recognize as evidence-based, weakening innovation and long-term healthcare capacity.
+    As hospitals struggle with service gaps, community organizations are filling non-medical roles—follow continued reporting by adding this link to your RSS reader.
+  </description>
+  <pubDate>Sun, 02 Feb 2026 23:20:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260202-007</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
+<item>
+  <title>Texas Policy Watch: SB 14 and the Medical Brain Drain in Houston</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    Senate Bill 14, upheld by the Texas Supreme Court, bans gender-affirming medical care for minors and has triggered a growing brain drain among Houston-based medical specialists facing license risks and ethical conflicts.
+    Major institutions such as the Texas Medical Center are now required to comply with state mandates despite opposing guidance from national medical organizations.
+    As clinical options disappear, community groups like the Montrose Center are stepping in with non-medical “safe zone” support—follow ongoing coverage by adding this link to your RSS reader.
+  </description>
+  <pubDate>Sun, 02 Feb 2026 22:45:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260202-006</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
+<item>
+  <title>Texas Policy Watch: Inside the “Blue Spine” Strategy Reshaping Houston’s Suburbs</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    The Blue Spine is a Democratic strategy targeting once-safe Republican districts across Cypress, Katy, and Fort Bend County as rapid growth and rising diversity push these suburbs toward purple.
+    By combining aggressive voter registration, turnout operations, and demographic leverage—especially among Asian American and Hispanic communities—the strategy has sharply narrowed GOP margins in districts like HD 26, HD 85, and HD 132.
+    Though Republicans still rely on high exurban turnout as a firewall, analysts warn the maps are becoming porous—follow ongoing Blue Spine coverage by adding this link to your RSS reader.
+  </description>
+  <pubDate>Sun, 02 Feb 2026 22:05:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260202-005</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
+<item>
+  <title>Texas Policy Watch: Fort Bend’s Demographic Shift Is Breaking the Map</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    Rapid population growth and rising racial diversity in Fort Bend County are eroding the Republican “safe seat” margins built into the 2021 redistricting maps, turning multiple state house districts into true swing territory.
+    Asian American and Hispanic population growth, combined with surging new voter registration since 2024, is shrinking GOP buffers in districts like HD 26 and HD 85 to just a few points.
+    As Fort Bend flipped purple at the countywide level in 2024, analysts warn these maps are becoming increasingly porous—track updates by adding this link to your RSS reader.
+  </description>
+  <pubDate>Sun, 02 Feb 2026 21:15:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260202-004</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+    
     <item>
-      <title>Texas Policy Watch: What They’re Not Telling You</title>
-      <link>https://thetexasprism.news/posts/example-or-placeholder</link>
-      <!-- Optional; can be real or placeholder -->
-      <description>
-        Breaking down the latest Texas policy moves with context, receipts, and zero spin.
-        This is Liber AF News—stay sharp, stay informed.
-      </description>
-      <pubDate>Sun, 02 Feb 2026 20:00:00 -0600</pubDate>
-      <guid isPermaLink="false">txprism-20260202-001</guid>
-      <!-- Unique ID: use date + number -->
-    </item>
+  <title>Texas Policy Watch: The Cracks in Houston’s Suburban GOP Firewall</title>
+  <link>https://aprismtx.github.io/feed.xml</link>
+  <!-- RSS feed link for subscribers using RSS readers -->
+  <description>
+    Republican dominance in the Greater Houston suburbs is weakening as population growth and rising racial diversity reshape the Blue Spine of Fort Bend and Harris Counties.
+    Despite aggressive 2021 redistricting and reinforced congressional maps ahead of 2025, state house districts like HD 26 and HD 85 are showing clear margin erosion.
+    Follow this coverage via RSS at the link above—drop it into your RSS reader to stay locked in as analysts warn several districts could turn purple by 2026.
+  </description>
+  <pubDate>Sun, 02 Feb 2026 20:00:00 -0600</pubDate>
+  <guid isPermaLink="false">txprism-20260202-003</guid>
+  <!-- Unique ID: use date + number -->
+</item>
+
 
     <!-- Add newer <item>s above this one; keep 10–30 recent -->
   </channel>
